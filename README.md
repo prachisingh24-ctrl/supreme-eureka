@@ -348,4 +348,5 @@ This project was developed as a team effort, and my role focused on strengthenin
 **Built with \u2764\ufe0f by the Supreme-Eureka Team**
 
 GitHub: [@sam1302-sks](https://github.com/sam1302-sks)
+
 This is a collaborative project developed by our team, with each member contributing to different aspects of the system.
