@@ -5,7 +5,7 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.8%2B-purple.svg?style=flat-square)](https://kotlinlang.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0%2B-orange.svg?style=flat-square)](https://spring.io/projects/spring-boot)
 
-A lightweight, extensible **Domain-Specific Language (DSL)** simulator for satellite operations, mission planning, and resource management. Built with **Kotlin**, **Spring Boot**, **ANTLR4**, and **Orekit**, this project enables mission control teams to define, parse, and execute complex satellite operations using intuitive DSL commands.
+Supreme-Eureka is a lightweight yet powerful **Domain-Specific Language (DSL)** simulator for satellite operations, mission planning, and resource management. Built with **Kotlin, Spring Boot, ANTLR4, and Orekit**, it enables mission teams to define, parse, and execute complex satellite workflows using intuitive DSL commands. From deploying satellites and ground stations to simulating orbital mechanics with real Celestrak TLE data, Supreme-Eureka bridges language engineering with aerospace automation in a flexible, extensible platform.
 
 ## \ud83c\udf1f Overview
 
@@ -319,6 +319,9 @@ limitations under the License.
 - **Kotlin**: For expressive and safe language features
 - All contributors and supporters of this project
 
+👩‍💻 My Contribution
+This project was developed as a team effort, and my role focused on strengthening the language and usability aspects. I worked on the DSL grammar and parsing using ANTLR4, ensuring accurate syntax handling and error detection, and I authored clear documentation and usage guides to make the system accessible for mission planners and researchers. I also contributed to testing and validation, preparing sample mission scripts to demonstrate real-world scenarios and improve reliability.
+
 ## \ud83d\ude80 Roadmap
 
 ### Version 1.1 (In Progress)
@@ -344,3 +347,4 @@ limitations under the License.
 **Built with \u2764\ufe0f by the Supreme-Eureka Team**
 
 GitHub: [@sam1302-sks](https://github.com/sam1302-sks)
+This is a collaborative project developed by our team, with each member contributing to different aspects of the system.
